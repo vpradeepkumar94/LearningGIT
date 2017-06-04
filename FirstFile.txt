@@ -6,3 +6,4 @@ git config username <emailid> - to setup github account
 git add . - to add all files to the staging area.
 git add filename to add specific file to staging area.
 git commit -m --- to commit the changes specified by a meaningfull message.
+git branchname      -- to create new branch
