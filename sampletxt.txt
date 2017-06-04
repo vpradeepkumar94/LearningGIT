@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git push origin --delete <branchname> -- to delete 
 branch
+=======
+sample text
+>>>>>>> 68b5105e412cbd5691ab837df5a9ef5f48476f48
