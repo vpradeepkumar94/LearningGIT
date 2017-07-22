@@ -19,6 +19,7 @@ public class LinkedListDemo {
 	public void initialiseLinkedList() {
 		integerList = new LinkedList<Integer>();
 		System.out.println("hello");
+		System.out.println("123");
     }
     
     @AfterClass
