@@ -18,7 +18,6 @@ public class LinkedListDemo {
     @BeforeClass
 	public void initialiseLinkedList() {
 		integerList = new LinkedList<Integer>();
-		System.out.println("hello");
 	}
     
     @AfterClass
